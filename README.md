@@ -8,7 +8,7 @@ Built with:
 -CSS
 -Bootstrap
 
-#Site
+# Site
 [TinDog](https://mrvicyu.github.io/bs_course_tindog/)
 
 
